@@ -17,6 +17,8 @@ public class DataPull {
 		System.out.println(data.get(3));
 		System.out.println(data.get(4));
 		System.out.println("To push to GITHUB");
+		System.out.println("To push to GITHUB");
+		
 	}
 
 }
